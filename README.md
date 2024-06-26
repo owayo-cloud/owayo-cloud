@@ -18,9 +18,6 @@
 # 📊 GitHub Stats:
 [![u_chiha's GitHub stats](https://github-readme-stats.vercel.app/api?username=owayo-cloud&show_icons=true&theme=transparent)](https://github.com/owayo-cloud/github-readme-stats) ![](https://github-readme-streak-stats.herokuapp.com/?user=owayo-cloud&theme=dark&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=owayo-cloud&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
