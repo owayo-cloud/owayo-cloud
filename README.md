@@ -13,7 +13,7 @@
 
 <!-- Github Stats-->
 # 📊 GitHub Stats:
-[![u_chiha's GitHub stats](https://github-readme-stats.vercel.app/api?username=owayo-cloud&show_icons=true&theme=transparent)](https://github.com/owayo-cloud/github-readme-stats) ![](https://github-readme-streak-stats.herokuapp.com/?user=owayo-cloud&theme=dark&hide_border=false)<br/>
+[![u_chiha's GitHub stats](https://github-readme-stats.vercel.app/api?username=owayo-cloud&show_icons=true&theme=transparent)](https://github.com/owayo-cloud/github-readme-stats)![](https://github-readme-streak-stats.herokuapp.com/?user=owayo-cloud&theme=dark&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
