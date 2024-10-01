@@ -19,7 +19,7 @@
   💡 Open to collaborations and new opportunities</br>
     😉 Check out my portfolio website [here]<!--(https://sudee.netlify.app/)-->
 <hr/> 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Languages & Tools I Know...** 
+<p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Languages & Tools I Know...** </p>
 <br/>
 
 <div align="center">  
@@ -47,7 +47,7 @@
 </div>
 
 <hr/>
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Let's connect...**
+<p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Let's connect...**</p>
 
 <div align="center">
 <!--<a href="https://github.com/sudee404" target="_blank">-->
