@@ -72,12 +72,12 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/owayo-cloud"><img src="http://github-readme-streak-stats.herokuapp.com?user=owayo-cloud&count_private=true&theme=midnight-purple&border=7f3ace&ring=80ff00&fire=80ff00" /></a>
+<a href="https://github.com/owayo-cloud"><img src="http://github-readme-streak-stats.herokuapp.com?user=owayo-cloud&count_private=true&theme=midnight-purple&border=0ef&ring=80ff00&fire=80ff00" /></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/owayo-cloud"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owayo-cloud&theme=midnight-purple&show_icons=true&count_private=true&layout=compact&border_color=7f3ace" alt="owayo-cloud"/></a>
-<a href="https://github.com/owayo-cloud"><img width="55%" src="https://github-readme-stats.vercel.app/api/?username=owayo-cloud&show_icons=true&count_private=true&theme=midnight-purple&show_icons=true&border_color=7f3ace" alt="owayo-cloud"/></a>
+<a href="https://github.com/owayo-cloud"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owayo-cloud&theme=midnight-purple&show_icons=true&count_private=true&layout=compact&border_color=0ef" alt="owayo-cloud"/></a>
+<a href="https://github.com/owayo-cloud"><img width="55%" src="https://github-readme-stats.vercel.app/api/?username=owayo-cloud&show_icons=true&count_private=true&theme=midnight-purple&show_icons=true&border_color=0ef" alt="owayo-cloud"/></a>
 </p>
 <br/>
 <hr/>
