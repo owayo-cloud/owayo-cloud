@@ -10,7 +10,7 @@
   
   🧑‍💻 Software and Web3 Developer | 📚 Lifelong Learner | 🌍 Explorer</br>
   
-  🔭 Currently working on [Mojomentors](https://www.mojomentors.com)</br>
+  🔭 Currently working on [Mojomentors](https://www.mojomentors.com) & [fiduciaFinance](https://www.fiduciafinance.com)</br>
   
   🌱 Always learning and improving my coding skills</br>
   
