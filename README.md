@@ -47,26 +47,6 @@
 </div>
 
 <hr/>
-<p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Let's connect...**</p>
-
-<div align="center">
-<a href="https://github.com/owayo-cloud" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/jamna_zi" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<!--<<a href="https://www.kaggle.com/sudeeabdalla" target="_blank">-->
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
-<!--<<a href="https://www.facebook.com/sudeeabdalla" target="_blank">-->
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-<a href="https://wa.me/254748297077">
-<img src="https://img.shields.io/badge/Whatsapp-rgb(85, 85, 85)?style=for-the-badge&logo=whatsapp&logoColor=green" alt="Whatsapp Badge"/>
-</a>
-</div>  
-<hr/>
 <p>
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
 </p>
