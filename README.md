@@ -18,7 +18,7 @@
   
   💡 Open to collaborations and new opportunities</br>
   
-😉 Check out my portfolio website<a href="http://owayopaul.vercel.app/" target="_blank" class="link"> here</a>.<hr/> 
+😉 Check out my portfolio website<a href="http://owayopaul.vercel.app/" target="_self" class="link"> here</a>.<hr/> 
 <p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Languages & Tools I Know...** </p>
 <br/>
 
