@@ -17,7 +17,7 @@
   📫 Let's connect! Feel free to reach out via email on owayopaul@gmail.com</br>
   
   💡 Open to collaborations and new opportunities</br>
-    😉 Check out my portfolio website [here]<!--(https://sudee.netlify.app/)-->
+    😉 Check out my portfolio website here<(http://owayopaul.vercel.app/)>
 <hr/> 
 <p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Languages & Tools I Know...** </p>
 <br/>
