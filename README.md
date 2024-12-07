@@ -62,11 +62,11 @@
 <br/>
 <hr/>
 
-<h3 align="center">Visitor Count</h3>
+<!--<h3 align="center">Visitor Count</h3>
 <br/>
 <p align="center"> 
 <a href="https://github.com/owayo-cloud"><img src="https://profile-counter.glitch.me/owayo-cloud/count.svg" style="height:auto; width:300px;"/></a><br/>
-<br/>
+<br/>-->
 
 <hr/>
 </div>
