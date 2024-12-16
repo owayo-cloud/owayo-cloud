@@ -23,9 +23,9 @@
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
 </p>
 
-<!--<p align="center">
+<p align="center">
 <a href="https://github.com/owayo-cloud"><img src="http://github-readme-streak-stats.herokuapp.com?user=owayo-cloud&count_private=true&theme=midnight-purple&border=0ef&ring=80ff00&fire=80ff00" /></a>
-</p>-->
+</p>
 
 <p align="center">
 <a href="https://github.com/owayo-cloud"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owayo-cloud&theme=midnight-purple&show_icons=true&count_private=true&layout=compact&border_color=9acd32" alt="owayo-cloud"/></a>
