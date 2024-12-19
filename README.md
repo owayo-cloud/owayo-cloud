@@ -2,7 +2,8 @@
 <img width="100%" height = "100%" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="cover" />
 </div>-->
 <h1 align='center'>
-    <img src="https://readme-typing-svg.demolab.com/? font=Comic-Sans&size=35&center=true&vCenter=true&width=500&height=50&duration=2000&lines=Hello +👋; + I'm + Owayo!;" />
+    <img src="https://readme-typing-svg.demolab.com/? font=Comic-Sans&size=35&center=true&vCenter=true&width=500&height=50&duration=2000&lines=
+こんにちは +👋; + I'm + Owayo!;" />
 </h1>
 <div align='center'>
   
