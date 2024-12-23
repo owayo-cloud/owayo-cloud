@@ -18,7 +18,7 @@
   
   💡 Open to collaborations and new opportunities</br>
   
-😉 Check out my portfolio<a href="http://owayopaul.vercel.app/" target="_self" class="link"> here</a>.<hr/> 
+😉 Check out my portfolio website<a href="http://owayopaul.vercel.app/" target="_self" class="link"> here</a>.<hr/> 
 
 <!--<p>
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
