@@ -29,8 +29,8 @@
 </p>-->
 
 <p align="center">
-<a href="https://github.com/owayo-cloud"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owayo-cloud&theme=midnight-purple&show_icons=true&count_private=true&layout=compact&border_color=0ef" alt="owayo-cloud"/></a>
-<a href="https://github.com/owayo-cloud"><img width="55%" src="https://github-readme-stats.vercel.app/api/?username=owayo-cloud&show_icons=true&count_private=true&theme=midnight-purple&show_icons=true&border_color=0ef" alt="owayo-cloud"/></a>
+<a href="https://github.com/owayo-cloud"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owayo-cloud&theme=midnight-purple&show_icons=true&count_private=true&layout=compact&border_color=00ffff" alt="owayo-cloud"/></a>
+<a href="https://github.com/owayo-cloud"><img width="55%" src="https://github-readme-stats.vercel.app/api/?username=owayo-cloud&show_icons=true&count_private=true&theme=midnight-purple&show_icons=true&border_color=00ffff" alt="owayo-cloud"/></a>
 </p>
 <br/>
 <!--<hr/>
