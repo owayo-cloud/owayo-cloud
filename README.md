@@ -8,7 +8,7 @@
   
   👨‍🎓 Studied Computer Science at The Catholic University of Eastern Africa (CUEA)</br>
   
-  🧑‍💻 Software and Web3 Developer | 📚 Lifelong Learner | 🌍 Explorer</br>
+  🧑‍💻 Software and Web Developer | 📚 Lifelong Learner | 🌍 Explorer</br>
   
   🔭 Currently working on [Mojomentors](https://www.mojomentors.com) & [fiduciaFinance](https://www.fiduciafinance.com.au/)</br>
   
