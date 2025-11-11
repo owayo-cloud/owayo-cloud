@@ -6,6 +6,8 @@
 </h1>
 <div align='center'>
   
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00aaff&center=true&vCenter=true&width=600&lines=👨‍🎓+Computer+Science+Graduate;🧑‍💻+Software+and+Web+Developer;📚+Lifelong+Learner;🌍+Explorer" alt="Typing SVG" />
+  
   👨‍🎓 Studied Computer Science at The Catholic University of Eastern Africa (CUEA)</br>
   
   🧑‍💻 Software and Web Developer | 📚 Lifelong Learner | 🌍 Explorer</br>
@@ -18,28 +20,31 @@
   
   💡 Open to collaborations and new opportunities</br>
   
-😉 Check out my portfolio website<a href="http://owayopaul.vercel.app/" target="_self" class="link"> here</a>.<hr/> 
+  😉 Check out my portfolio website <a href="http://owayopaul.vercel.app/" target="_blank" class="link">here</a>.</br>
+  
+  <hr/>
 
-<!--<p>
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+<p align="center">
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i>&nbsp;<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
 </p>
 
 <p align="center">
-<a href="https://github.com/owayo-cloud"><img src="http://github-readme-streak-stats.herokuapp.com?user=owayo-cloud&count_private=true&theme=midnight-purple&border=0ef&ring=80ff00&fire=80ff00" /></a>
-</p>-->
-
-<!--<p align="center">
-<a href="https://github.com/owayo-cloud"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owayo-cloud&theme=midnight-purple&show_icons=true&count_private=true&layout=compact&border_color=00ffff" alt="owayo-cloud"/></a>
-<a href="https://github.com/owayo-cloud"><img width="55%" src="https://github-readme-stats.vercel.app/api/?username=owayo-cloud&show_icons=true&count_private=true&theme=midnight-purple&show_icons=true&border_color=00ffff" alt="owayo-cloud"/></a>
+<a href="https://github.com/owayo-cloud">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owayo-cloud&count_private=true&theme=blue-green&border=0080ff&ring=00aaff&fire=0066cc&currStreakLabel=00aaff&cache_seconds=1800" alt="GitHub Streak Stats"/>
+</a>
 </p>
-<br/>
-<!--<hr/>
-<h3 align="center">Visitor Count</h3>
-<br/>
-<p align="center"> 
-<a href="https://github.com/owayo-cloud"><img src="https://profile-counter.glitch.me/owayo-cloud/count.svg" style="height:auto; width:300px;"/></a><br/>
-<br/>
-<hr/>
-</div>-->
 
+<p align="center">
+<a href="https://github.com/owayo-cloud">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owayo-cloud&theme=blue-green&show_icons=true&count_private=true&layout=compact&border_color=0080ff&bg_color=0D1117&title_color=00aaff&text_color=ffffff&icon_color=0080ff&cache_seconds=1800&langs_count=10&hide=html,css,scss" alt="Top Languages"/>
+</a>
+<a href="https://github.com/owayo-cloud">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/?username=owayo-cloud&show_icons=true&count_private=true&theme=blue-green&border_color=0080ff&bg_color=0D1117&title_color=00aaff&text_color=ffffff&icon_color=0080ff&hide_border=false&cache_seconds=1800&include_all_commits=true" alt="GitHub Stats"/>
+</a>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=owayo-cloud&theme=blue-green&bg_color=0D1117&color=00aaff&line=0080ff&point=0066cc&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+</div>
