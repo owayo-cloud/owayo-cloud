@@ -1,6 +1,9 @@
-<!--<div align="center">
+<h1>Owayo Paul</h1>
+😉 Check out my portfolio website <a href="http://owayopaul.vercel.app/" target="_blank" class="link">here</a>.</br>
+<hr/>
+<!--<!--<div align="center">
 <img width="100%" height = "100%" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="cover" />
-</div>-->
+</div>
 <h1 align='center'>
     <img src="https://readme-typing-svg.demolab.com/? font=Comic-Sans&size=35&center=true&vCenter=true&width=500&height=50&duration=2000&lines=こんにちは +👋; + I'm + Owayo!;" />
 </h1>
@@ -47,4 +50,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=owayo-cloud&theme=blue-green&bg_color=0D1117&color=00aaff&line=0080ff&point=0066cc&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
-</div>
+</div>-->
