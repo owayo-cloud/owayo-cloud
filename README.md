@@ -1,5 +1,9 @@
 <h1>Owayo Paul</h1>
 😉 Check out my portfolio website <a href="http://owayopaul.vercel.app/" target="_blank" class="link">here</a>.</br>
+😉 Check out my scheduler website <a href="https://scheduler-bpc.vercel.app/" target="_blank" class="link">here</a>.</br>
+Login Credentials</br>
+email: test@scheduler.com </br>
+password: ignition123
 <hr/>
 <!--<!--<div align="center">
 <img width="100%" height = "100%" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="cover" />
